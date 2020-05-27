@@ -1,4 +1,4 @@
-# Panic commit, this is so pathetic
+# Panic commit, this is so pathetic, #2
 # Important update from the author 
 I will try to update this repo over the winter break as I want the game meta to stabilize a little. Stay tuned!
 
